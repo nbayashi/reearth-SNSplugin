@@ -1,0 +1,6 @@
+name: SNSシェアプラグイン
+extensions:
+  tweet-widget:
+    name: Twitter シェアボタン
+  facebook-share-widget:
+    name: Facebook シェアボタン
